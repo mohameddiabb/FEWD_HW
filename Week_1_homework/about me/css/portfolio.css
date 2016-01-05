@@ -1,0 +1,38 @@
+body { background-image: url('../images/28-Free-Books-for-Mastering-Software-Architecture.jpg');
+
+-webkit-background-size:cover
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size: cover;
+
+}
+h1,h2 {
+	text-align: center;
+	font-size: 40px;
+	font-weight:bold;
+	color: white;
+
+
+}
+span {
+	text-decoration: underline;
+	color: red;
+}
+h3,p {
+	margin-left: 300px;
+	padding-bottom:20px; 
+
+}
+h3 {
+	font-size: 30px;
+	font-weight: bold;
+	color: red ;
+
+
+}
+p{
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+}
+
